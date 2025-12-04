@@ -1,0 +1,31 @@
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\bin\Debug\p.exe.config
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\bin\Debug\p.exe
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\bin\Debug\p.pdb
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\obj\Debug\p.exe
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\obj\Debug\p.pdb
+C:\Users\user\Documents\коледж\інж програмного забезпечення\p\p\obj\Debug\p.Form1.resources
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\bin\Debug\p.exe.config
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\bin\Debug\p.exe
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\bin\Debug\p.pdb
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\obj\Debug\p.Form1.resources
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\obj\Debug\p.exe
+C:\Users\user\Documents\коледж\інж програмного забезпечення\PaintC#\p\obj\Debug\p.pdb
+C:\Users\user\Documents\коледж\PaintC#\p\bin\Debug\p.exe.config
+C:\Users\user\Documents\коледж\PaintC#\p\bin\Debug\p.exe
+C:\Users\user\Documents\коледж\PaintC#\p\bin\Debug\p.pdb
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.exe.config
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.Form1.resources
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.exe
+C:\Users\user\Documents\коледж\PaintC#\p\obj\Debug\p.pdb
