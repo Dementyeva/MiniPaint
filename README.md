@@ -49,4 +49,4 @@ XML serialization of:
 
 
 ![Game Screenshot](paint.jpg)
-![Game Screenshot](paint.png)
+![Game Screenshot](image.png)
