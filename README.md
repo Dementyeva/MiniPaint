@@ -56,4 +56,5 @@ This project demonstrates working with:
 
 
 ![Game Screenshot](paint.jpg)
+---
 ![Game Screenshot](image.png)
